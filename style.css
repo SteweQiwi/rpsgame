@@ -1,0 +1,27 @@
+.choiceBtn{
+    line-height: 35px;
+    width: 150px;
+    border-radius: 12px;
+    font-weight: 600;
+}
+
+
+#gameDiv{
+    font-family: "MV Boli", cursive;
+    /* font-weight: bolder; */
+    background-color: #d4dde1;
+    border: 3px solid;
+    border-radius: 12px;
+    padding: 20px;
+    text-align: center;
+}
+
+#playerText{
+    color: #335252;
+}
+#computerText{
+    color: #2d3033;
+}
+#resultText{
+    color: #AA4B41;
+}
